@@ -29,6 +29,7 @@ This is a collaborative open-source site documenting the anarchy.
                     <li><a href="guides/npc-gift-tastes">NPC gift tastes</a></li>
                     <li><a href="guides/object-data">Object data</a></li>
                     <li><a href="guides/weather">Weather</a></li>
+                    <li><a href="guides/event-conditions-and-scripting">Events</a></li>
                 </ul>
             </li>
             <li>Need help? <a href="https://discord.gg/kH55QXP">Ask on Discord</a></li>
