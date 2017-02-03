@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Creating an XNB mod
+title: Conditions and scripting for events
 intro: >
-    This page explains how to create a mod which replaces game files in order to change game data,
-    images, and maps.
+    This page lists all known condtions(triggers) and scripting commandsds currently known.
     <p class="warning">
-    This guide is still very new and may have inaccuracies. Use at your discretion, and
-    <a href="https://github.com/Pathoschild/canimod.github.io#ways-to-contribute">feel free to contribute</a>
-    any corrections and improvements.
+    This list may be incomplete. <a href="https://github.com/Pathoschild/canimod.github.io#ways-to-contribute">Feel free to add more</a>
+    if you have found any triggers or commands that are not listed.
     </p>
 ---
 
